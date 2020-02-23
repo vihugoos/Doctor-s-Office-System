@@ -1,1 +1,4 @@
 port: 3306
+
+OBS: Coloque a senha do seu Banco de Dados MySQl em todas as classes DAOImpl da pasta DAO.
+
